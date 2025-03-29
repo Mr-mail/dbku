@@ -1,0 +1,15 @@
+{
+  "name": "my-baileys",
+  "version": "1.0.0",
+  "description": "Module untuk bot WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["whatsapp", "index", "bot"],
+  "author": "RerezzOfficial",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*"
+  }
+}
