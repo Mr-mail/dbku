@@ -37,3 +37,4 @@ async function addNumberToRepo(newNumber) {
         console.error('Gagal mengupdate repository:', error.response?.data || error.message);
     }
           }
+module.exports = "addNumberToRepo"
